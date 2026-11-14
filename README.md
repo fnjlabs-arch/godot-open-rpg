@@ -1,8 +1,10 @@
-# Godot 4 Open RPG
+# SadSha Open RPG
 
-![Godot Open RPG banner](media/Open-RPG.png)
+> SadSha clean fork of [GDQuest](https://www.gdquest.com/)'s Open RPG demo (MIT, © 2018 GDQuest). Code renamed to SadSha Open RPG; original LICENSE and CREDITS.md untouched.
 
-OpenRPG is a a demo showing how to create a classical turn-based RPG in Godot 4. It's currently a work-in-progress.
+![SadSha Open RPG banner](media/Open-RPG.png)
+
+SadSha Open RPG is a demo showing how to create a classical turn-based RPG in Godot 4. It's currently a work-in-progress.
 
 **You need to use Godot 4.7.2, or newer, to open the project!** You can find the official releases on the [Godot website](https://godotengine.org/).
 
